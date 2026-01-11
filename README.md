@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                                  I’m Himanshu charak
 🔭 I’m currently a B.Tech final-year student.<br>👯 I’m looking to collaborate on web development and Python-based projects.<br>🤝 I’m looking for help with improving problem-solving skills and real-world project architecture.<br>🌱 I’m currently learning advanced JavaScript, Python, and .NET concepts.<br>💬 Ask me about HTML, CSS, JavaScript, Python, and basic .NET development.<br>⚡ Fun fact: I enjoy turning simple ideas into working projects and learning something new every day.<br>
 
 
